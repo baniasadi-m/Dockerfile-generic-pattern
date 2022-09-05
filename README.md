@@ -1,1 +1,1 @@
-# Dockerfile-generic-pattern
+# Dockerfile-patterns
