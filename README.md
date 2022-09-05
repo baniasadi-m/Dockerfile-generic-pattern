@@ -1,1 +1,1 @@
-# Dockerfile-generic-template
+# Dockerfile-generic-pattern
